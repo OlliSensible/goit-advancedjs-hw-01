@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../../Downloads/goit-advancedjs-hw-01/src"
+		},
+		{
+			"name": "goit-advancedjs-hw-01",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
